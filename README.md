@@ -58,13 +58,13 @@ A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/mo
 Let’s run with some standard Kotlin functions! Short and powerful, `let`, `apply`, `with` and `run` all have a receiver (this), may have an argument (it) and may have a return value. See the differences
 
 <p>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" width="1024" height="574" alt="day1a"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1a.png" width="1024" height="574" alt="day1a"/>
 <br>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1b"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1b.png" alt="day1b"/>
 <br>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1c"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1c.png" alt="day1c"/>
 <br>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1d"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1d.png" alt="day1d"/>
 </p>
 
 #### Day 2 - KTX view padding
