@@ -16,7 +16,7 @@ A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/mo
 
 ### Contents
 
-##### [Day 1 - KTX view padding](#day1)
+##### [Day 1 - let, apply, with and run](#day1)
 ##### [Day 2 - KTX view padding](#day2)
 ##### [Day 3 - Parcelable](#day3)
 ##### [Day 4 - Spans](#day4)
