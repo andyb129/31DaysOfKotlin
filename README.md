@@ -1,7 +1,7 @@
 # 31 Days Of Kotlin 
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/kotlin_logo.png" alt="day2"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/kotlin_logo.png" alt="kotlin logo"/>
 </p>
 
 A summary of all the kotlin tips from Google's [Android Developer Twitter account](https://twitter.com/AndroidDev)
@@ -58,13 +58,13 @@ A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/mo
 Let’s run with some standard Kotlin functions! Short and powerful, `let`, `apply`, `with` and `run` all have a receiver (this), may have an argument (it) and may have a return value. See the differences
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day1.png" width="1024" height="574" alt="day1a"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" width="1024" height="574" alt="day1a"/>
 <br>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day1.png" alt="day1b"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1b"/>
 <br>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day1.png" alt="day1c"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1c"/>
 <br>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day1.png" alt="day1d"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1.png" alt="day1d"/>
 </p>
 
 #### Day 2 - KTX view padding
@@ -76,7 +76,7 @@ A one line function that saves so much code!
 Code: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/view/View.kt#L117](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/view/View.kt#L117)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day2.png" alt="day2"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day2.png" alt="day2"/>
 </p>
 
 #### Day 3 - Parcelable
@@ -86,7 +86,7 @@ Love the speed of Parcelable, but don’t like writing all that code? Say hello 
 Spec: [https://github.com/Kotlin/KEEP/blob/master/proposals/extensions/android-parcelable.md](https://github.com/Kotlin/KEEP/blob/master/proposals/extensions/android-parcelable.md)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day3.png" alt="day3"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day3.png" alt="day3"/>
 </p>
 
 #### Day 4 - Spans
@@ -97,7 +97,7 @@ Android KTX adds extension functions for some of the most common spans and makes
 Android KTX: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/text/SpannableStringBuilder.kt](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/text/SpannableStringBuilder.kt)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day4.png" alt="day4"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day4.png" alt="day4"/>
 </p>
 
 #### Day 5 - Lambdas
@@ -110,7 +110,7 @@ Docs: [https://kotlinlang.org/docs/reference/lambdas.html](https://kotlinlang.or
 Android KTX: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/os/Handler.kt#L38](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/os/Handler.kt#L38)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day5.png" alt="day5"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day5.png" alt="day5"/>
 </p>
 
 #### Day 6 - Bundles
@@ -122,7 +122,7 @@ One call will make you a new bundle, and it’ll even handle Arrays!
 Code: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/os/Bundle.kt#L27](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/os/Bundle.kt#L27)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day6.png" alt="day6"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day6.png" alt="day6"/>
 </p>
 
 #### Day 7 - Type safe builders
@@ -133,7 +133,7 @@ Extension Lambdas: https://kotlinlang.org/docs/reference/lambdas.html#function-l
 Type Safe Builders: https://kotlinlang.org/docs/reference/type-safe-builders.html
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day7.png" alt="day7"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day7.png" alt="day7"/>
 </p>
 
 #### Day 8 - KTX Content Values
@@ -143,7 +143,7 @@ Combine the power of Content Values with the brevity of Kotlin. Use the Android 
 Android KTX: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/content/ContentValues.kt#L21](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/content/ContentValues.kt#L21)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day8.png" alt="day8"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day8.png" alt="day8"/>
 </p>
 
 #### Day 9 - KTX iterators for ViewGroup & SparseArray
@@ -156,7 +156,7 @@ Docs: [https://kotlinlang.org/docs/reference/control-flow.html#for-loops](https:
 Android KTX: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/view/ViewGroup.kt#L66](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/view/ViewGroup.kt#L66)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day9.png" alt="day9"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day9.png" alt="day9"/>
 </p>
 
 #### Day 10 - Basic syntax
@@ -166,7 +166,7 @@ Android KTX: [https://github.com/android/android-ktx/blob/master/src/main/java/a
 Doc: [https://kotlinlang.org/docs/reference/basic-syntax.html](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day10.png" alt="day10"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day10.png" alt="day10"/>
 </p>
 
 #### Day 11 - Operator overload
@@ -177,7 +177,7 @@ Write Kotlin (time * 2) faster with operator overloading. Objects like Path, Ran
 [https://goo.gl/iy8tZ9](https://goo.gl/iy8tZ9) 
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day11.png" alt="day11"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day11.png" alt="day11"/>
 </p>
 
 #### Day 12 - Sequence
@@ -187,7 +187,7 @@ Write Kotlin (time * 2) faster with operator overloading. Objects like Path, Ran
 Docs: [https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.sequences/index.html](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.sequences/index.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day12.png" alt="day12"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day12.png" alt="day12"/>
 </p>
 
 #### Day 13 - KTX Graphics
@@ -199,7 +199,7 @@ Android KTX has a great set of functions to make your code more concise when wor
 [https://github.com/android/android-ktx/tree/master/src/main/java/androidx/core/graphics/drawable](https://github.com/android/android-ktx/tree/master/src/main/java/androidx/core/graphics/drawable)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day13.png" alt="day13"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day13.png" alt="day13"/>
 </p>
 
 #### Day 14 - Extension functions
@@ -211,7 +211,7 @@ Doc: [https://kotlinlang.org/docs/reference/extensions.html#extension-functions]
 Example: [https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/net/Uri.kt#L28](https://github.com/android/android-ktx/blob/master/src/main/java/androidx/core/net/Uri.kt#L28)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day14.png" alt="day14"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day14.png" alt="day14"/>
 </p>
 
 #### Day 15 - By
@@ -223,7 +223,7 @@ Delegation: [https://kotlinlang.org/docs/reference/delegation.html](https://kotl
 Delegated properties: [http://kotlinlang.org/docs/reference/delegated-properties.html](http://kotlinlang.org/docs/reference/delegated-properties.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day15.png" alt="day15"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day15.png" alt="day15"/>
 </p>
 
 #### Day 16 - KTX reified
@@ -233,7 +233,7 @@ To make the concept of reified concrete an example is in order: `Context.systemS
 Docs: [https://kotlinlang.org/docs/reference/inline-functions.html#reified-type-parameters](https://kotlinlang.org/docs/reference/inline-functions.html#reified-type-parameters)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day16.png" alt="day16"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day16.png" alt="day16"/>
 </p>
 
 #### Day 17 - @JvmName
@@ -245,9 +245,9 @@ By default, the compiler generates the class name as “YourFileKt”. Change it
 Doc: [https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#package-level-functions](https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#package-level-functions)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day17a.png" alt="day17a"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day17a.png" alt="day17a"/>
 <br>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day17b.png" alt="day17b"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day17b.png" alt="day17b"/>
 </p>
 
 #### Day 18 - inline
@@ -261,7 +261,7 @@ Kotlin lets you specify a function as `inline` - which means calls will be repla
 Docs: [https://kotlinlang.org/docs/reference/inline-functions.html](https://kotlinlang.org/docs/reference/inline-functions.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day18.png" alt="day18"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day18.png" alt="day18"/>
 </p>
 
 #### Day 19 - require
@@ -271,7 +271,7 @@ Docs: [https://kotlinlang.org/docs/reference/inline-functions.html](https://kotl
 Doc: [https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/require.html](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/require.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day19.png" alt="day19"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day19.png" alt="day19"/>
 </p>
 
 #### Day 20 - latinit
@@ -283,7 +283,7 @@ Enter `lateinit`. It's a promise: initialize me later! Use it to pinky-swear it 
 Docs: [https://kotlinlang.org/docs/reference/properties.html#late-initialized-properties-and-variables](https://kotlinlang.org/docs/reference/properties.html#late-initialized-properties-and-variables) 
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day20.png" alt="day20"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day20.png" alt="day20"/>
 </p>
 
 #### Day 21 - lazy
@@ -293,7 +293,7 @@ It’s good to be lazy! Defer the cost of expensive property initialization unti
 Lazy: [https://kotlinlang.org/docs/reference/delegated-properties.html#lazy](https://kotlinlang.org/docs/reference/delegated-properties.html#lazy)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day21.png" alt="day21"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day21.png" alt="day21"/>
 </p>
 
 #### Day 22 - sealed classes
@@ -303,7 +303,7 @@ Lazy: [https://kotlinlang.org/docs/reference/delegated-properties.html#lazy](htt
 Docs: [https://kotlinlang.org/docs/reference/sealed-classes.html](https://kotlinlang.org/docs/reference/sealed-classes.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day22.png" alt="day22"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day22.png" alt="day22"/>
 </p>
 
 #### Day 23 - default parameters
@@ -315,7 +315,7 @@ Make the code even more readable with named parameters.
 Doc:  [https://kotlinlang.org/docs/reference/functions.html#default-arguments](https://kotlinlang.org/docs/reference/functions.html#default-arguments)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day23.png" alt="day23"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day23.png" alt="day23"/>
 </p>
 
 #### Day 24 - access modifiers
@@ -325,7 +325,7 @@ In Kotlin, everything is public by default! Well, almost. Kotlin has a rich set 
 Docs: [https://kotlinlang.org/docs/reference/visibility-modifiers.html](https://kotlinlang.org/docs/reference/visibility-modifiers.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day24.png" alt="day24"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day24.png" alt="day24"/>
 </p>
 
 #### Day 25 - data classes
@@ -337,7 +337,7 @@ Docs:
 [https://kotlinlang.org/docs/reference/equality.html](https://kotlinlang.org/docs/reference/equality.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day25.png" alt="day25"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day25.png" alt="day25"/>
 </p>
 
 #### Day 26 - properties
@@ -347,7 +347,7 @@ In Kotlin, classes can have mutable and read-only properties, with getters and s
 Docs: [https://kotlinlang.org/docs/reference/properties.html](https://kotlinlang.org/docs/reference/properties.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day26.png" alt="day26"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day26.png" alt="day26"/>
 </p>
 
 #### Day 27 - ranges
@@ -359,7 +359,7 @@ Ranges: [https://kotlinlang.org/docs/reference/ranges.html](https://kotlinlang.o
 Destructuring: [https://kotlinlang.org/docs/reference/multi-declarations.html#destructuring-declarations](https://kotlinlang.org/docs/reference/multi-declarations.html#destructuring-declarations)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day27.png" alt="day27"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day27.png" alt="day27"/>
 </p>
 
 #### Day 28 - when statement
@@ -369,7 +369,7 @@ A switch statement with superpowers? Kotlin’s `when` expression can match on j
 Docs: [https://kotlinlang.org/docs/reference/control-flow.html#when-expression](https://kotlinlang.org/docs/reference/control-flow.html#when-expression)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day28.png" alt="day28"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day28.png" alt="day28"/>
 </p>
 
 #### Day 29 - KTX destructuring
@@ -379,7 +379,7 @@ Now with prisms? Android KTX uses destructuring to assign the component values o
 Docs: [https://kotlinlang.org/docs/reference/multi-declarations.html](https://kotlinlang.org/docs/reference/multi-declarations.html)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day29.png" alt="day29"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day29.png" alt="day29"/>
 </p>
 
 #### Day 30 - string templates
@@ -389,7 +389,7 @@ Formatting Strings? Refer to variables and expressions in string literals by put
 Docs: [https://kotlinlang.org/docs/reference/basic-types.html#string-templates](https://kotlinlang.org/docs/reference/basic-types.html#string-templates)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day30.png" alt="day30"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day30.png" alt="day30"/>
 </p>
 
 #### Day 31 - elvis operator
@@ -399,7 +399,7 @@ Handling nulls in style? Check out the elvis operator `?:`, to cut your “null-
 Docs: [https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator](https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator)
 
 <p>
-<img src="https://github.com/andyb129/BeerProgressView/blob/master/app/src/main/res/drawable/day31.png" alt="day31"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day31.png" alt="day31"/>
 </p>
 
 
