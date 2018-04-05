@@ -463,6 +463,8 @@ Docs: [https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator](ht
 </p>
 
 
+### Thanks
 
+Thanks to the Google Android Developer team for putting together this cool series of Kotlin info! :smile:
 
 
