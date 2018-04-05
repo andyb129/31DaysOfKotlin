@@ -5,7 +5,7 @@
 <img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/kotlin_logo.png" width="375" height="95" alt="kotlin logo"/>
 </p>
 
-A summary of all the kotlin tips from Google's [Android Developer Twitter account](https://twitter.com/AndroidDev)
+A summary of all the kotlin tips from Google's [Android Developer Twitter account](https://twitter.com/AndroidDev) with the hastag #31DaysofKotlin
 
 A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/moments/980488782406303744](https://twitter.com/i/moments/980488782406303744) 
 
@@ -36,7 +36,7 @@ A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/mo
 ##### [Day 17 - @JvmName](#day17)
 ##### [Day 18 - inline](#day18)
 ##### [Day 19 - require](#day19)
-##### [Day 20 - latinit](#day20)
+##### [Day 20 - lateinit](#day20)
 ##### [Day 21 - lazy](#day21)
 ##### [Day 22 - sealed classes](#day22)
 ##### [Day 23 - default parameters](#day23)
@@ -312,7 +312,7 @@ Doc: [https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/require.html](https://
 
 <a name="day20"></a>
 
-#### Day 20 - latinit
+#### Day 20 - lateinit
 
 In Android, onCreate or other callbacks initialize objects. In Kotlin non-null vals must be initialized. What to do?
 
