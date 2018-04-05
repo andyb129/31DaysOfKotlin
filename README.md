@@ -1,7 +1,7 @@
 # 31 Days Of Kotlin 
 
 <p>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/kotlin_logo.png" alt="kotlin logo"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/kotlin_logo.png" width="375" height="95" alt="kotlin logo"/>
 </p>
 
 A summary of all the kotlin tips from Google's [Android Developer Twitter account](https://twitter.com/AndroidDev)
@@ -58,7 +58,7 @@ A Twitter Moment summary of all the tweets are here -> [https://twitter.com/i/mo
 Let’s run with some standard Kotlin functions! Short and powerful, `let`, `apply`, `with` and `run` all have a receiver (this), may have an argument (it) and may have a return value. See the differences
 
 <p>
-<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1a.png" width="1024" height="574" alt="day1a"/>
+<img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1a.png" width="512" height="287" alt="day1a"/>
 <br>
 <img src="https://github.com/andyb129/31DaysOfKotlin/blob/master/app/src/main/res/drawable/day1b.png" alt="day1b"/>
 <br>
